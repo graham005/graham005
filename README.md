@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enoch Graham</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=graham005&label=Profile%20views&color=0e75b6&style=flat" alt="graham005" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=graham005" alt="graham005" /></a> </p>
 
@@ -27,6 +26,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=graham005&show_icons=true&locale=en" alt="graham005" /></p>
 
-<img src="https://raw.githubusercontent.com/graham005/graham005/output/snake.svg" alt="Snake animation" />
 
 
