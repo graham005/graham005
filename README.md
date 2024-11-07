@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Enoch Graham</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=graham005" alt="graham005" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter & Dart**
 
-- 👯 I’m looking to collaborate on **Backend projects**
-
-- 🤝 I’m looking for help with **ASP.NET**
+- 👯 I’m looking to collaborate on **Backend and Mobile projects**
 
 - 💬 Ask me about **ASP.NET**
 
