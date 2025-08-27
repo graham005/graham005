@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Enoch Graham</h1>
-<h3 align="center">A passionate Backend developer</h3>
+<h3 align="center">A passionate Software developer</h3>
 
 - 🌱 I’m currently learning **Flutter & Dart**
 
-- 👯 I’m looking to collaborate on **Backend and Mobile projects**
+- 👯 I’m looking to collaborate on **Web and Mobile projects**
 
-- 💬 Ask me about **ASP.NET**
+- 💬 Ask me about **ASP.NET and React**
 
 - 📫 How to reach me **enochgraham003@outlook.com**
 
